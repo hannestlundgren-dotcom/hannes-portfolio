@@ -12,13 +12,16 @@ python3 -m http.server 4175
 
 Öppna `http://localhost:4175`.
 
-## Före skarp lansering
+## Lanseringsstatus
 
-- Anslut vald domän.
-- Skapa och verifiera domänbaserad e-post.
-- Aktivera kontaktlänken.
-- Lägg till komplett Open Graph-bild.
-- Ändra `robots` från `noindex, nofollow` till `index, follow`.
-- Bekräfta slutlig formulering om tjänster och pilotprojekt.
+- Domän: `lundgrendigital.se`, kopplad till GitHub Pages.
+- Domänbaserad e-post: `hannes@lundgrendigital.se`.
+- Kontaktlänk, indexering, Open Graph-bild, robots och sitemap är aktiverade.
+- HTTPS aktiveras i GitHub Pages så snart GitHubs certifikat är utfärdat.
+
+## Kvar att utveckla
+
+- Bekräfta slutlig paketering och formulering för tjänster och pilotprojekt.
+- Ersätt eller komplettera konceptprojekten med riktiga kundcase över tid.
 
 Projektbilderna kommer från de två fiktiva portfolioexemplen Eld & Timjan och Studio Linnea.
