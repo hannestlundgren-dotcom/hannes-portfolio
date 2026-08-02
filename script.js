@@ -11,14 +11,14 @@ navToggle.addEventListener("click", () => {
   nav.classList.toggle("open", !open);
   header.classList.toggle("menu-open", !open);
   navToggle.setAttribute("aria-expanded", String(!open));
-  navToggle.querySelector("b").textContent = open ? "Öppna meny" : "Stäng meny";
+  navToggle.querySelector("b").textContent = open ? navToggle.dataset.labelOpen : navToggle.dataset.labelClose;
 });
 
 nav.querySelectorAll("a").forEach((link) => link.addEventListener("click", () => {
   nav.classList.remove("open");
   header.classList.remove("menu-open");
   navToggle.setAttribute("aria-expanded", "false");
-  navToggle.querySelector("b").textContent = "Öppna meny";
+  navToggle.querySelector("b").textContent = navToggle.dataset.labelOpen;
 }));
 
 const observer = new IntersectionObserver((entries) => {
