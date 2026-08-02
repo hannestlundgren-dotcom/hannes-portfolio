@@ -17,9 +17,8 @@ python3 -m http.server 4175
 - Anslut vald domän.
 - Skapa och verifiera domänbaserad e-post.
 - Aktivera kontaktlänken.
-- Lägg till canonical URL och komplett Open Graph-bild.
+- Lägg till komplett Open Graph-bild.
 - Ändra `robots` från `noindex, nofollow` till `index, follow`.
 - Bekräfta slutlig formulering om tjänster och pilotprojekt.
-- Uppdatera canonical- och hreflang-adresser från GitHub Pages till den skarpa domänen.
 
 Projektbilderna kommer från de två fiktiva portfolioexemplen Eld & Timjan och Studio Linnea.
