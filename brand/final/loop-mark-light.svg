@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 160" role="img" aria-labelledby="title">
+  <title id="title">Lundgren Digital Loop-symbol, ljus version</title>
+  <g fill="none" stroke="#c7f25a" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26 12v126h64"/>
+    <path d="M94 12h31c49 0 75 23 75 63s-26 63-75 63H94V53"/>
+  </g>
+  <circle cx="94" cy="53" r="8.5" fill="#fbfaf6"/>
+</svg>

@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Fyra logokoncept för Lundgren Digital</title>
+  <desc id="desc">Signal, Linje, Block och Framåt visas som symbol, ordmärke och liten favicon.</desc>
+  <defs>
+    <style>
+      .board-title { font: 700 58px Arial, sans-serif; letter-spacing: -2px; fill: #171916; }
+      .board-subtitle { font: 400 21px Arial, sans-serif; fill: #676b63; }
+      .number { font: 700 14px Arial, sans-serif; letter-spacing: 2px; fill: #171916; }
+      .name { font: 700 27px Arial, sans-serif; letter-spacing: -.5px; fill: #171916; }
+      .trait { font: 400 16px Arial, sans-serif; fill: #777b73; }
+      .wordmark-dark { font: 700 36px Arial, sans-serif; letter-spacing: 4px; fill: #f2f0e9; }
+      .wordmark-light { font: 700 36px Arial, sans-serif; letter-spacing: 4px; fill: #171916; }
+      .digital-dark { font: 400 17px Arial, sans-serif; letter-spacing: 10px; fill: #c7f25a; }
+      .digital-light { font: 400 17px Arial, sans-serif; letter-spacing: 10px; fill: #536051; }
+      .mini { font: 600 13px Arial, sans-serif; letter-spacing: 1px; fill: #6f736b; }
+      .ld { font: 800 56px Arial, sans-serif; letter-spacing: -4px; fill: #171916; }
+    </style>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#171916" flood-opacity=".08"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="1200" fill="#e9e8e1"/>
+  <text x="70" y="90" class="board-title">LD — fyra logoriktningar</text>
+  <text x="72" y="130" class="board-subtitle">Skalbara koncept för webb, favicon, mejlsignatur och social profil.</text>
+  <rect x="72" y="157" width="1456" height="2" fill="#c8c8bf"/>
+
+  <!-- 01 Signal -->
+  <g filter="url(#shadow)">
+    <rect x="70" y="205" width="710" height="420" rx="26" fill="#fbfaf6"/>
+  </g>
+  <text x="100" y="250" class="number">01</text>
+  <text x="140" y="250" class="name">Signal</text>
+  <text x="252" y="250" class="trait">Vänlig · flexibel · nära nuvarande uttryck</text>
+  <rect x="100" y="278" width="650" height="235" rx="18" fill="#171916"/>
+  <circle cx="218" cy="395" r="76" fill="#c7f25a"/>
+  <text x="213" y="414" class="ld" text-anchor="middle">LD</text>
+  <text x="330" y="388" class="wordmark-dark">LUNDGREN</text>
+  <text x="333" y="423" class="digital-dark">DIGITAL</text>
+  <circle cx="128" cy="562" r="20" fill="#c7f25a"/>
+  <text x="127" y="569" font-family="Arial, sans-serif" font-size="14" font-weight="800" text-anchor="middle" fill="#171916">LD</text>
+  <text x="166" y="568" class="mini">TYDLIG SOM FAVICON I 32 PX</text>
+  <circle cx="648" cy="562" r="20" fill="#171916"/>
+  <circle cx="648" cy="562" r="16" fill="#c7f25a"/>
+  <text x="648" y="567" font-family="Arial, sans-serif" font-size="11" font-weight="800" text-anchor="middle" fill="#171916">LD</text>
+
+  <!-- 02 Line -->
+  <g filter="url(#shadow)">
+    <rect x="820" y="205" width="710" height="420" rx="26" fill="#fbfaf6"/>
+  </g>
+  <text x="850" y="250" class="number">02</text>
+  <text x="890" y="250" class="name">Linje</text>
+  <text x="985" y="250" class="trait">Teknisk · precis · sofistikerad</text>
+  <rect x="850" y="278" width="650" height="235" rx="18" fill="#171916"/>
+  <g transform="translate(900 325)" fill="none" stroke="#c7f25a" stroke-width="16" stroke-linecap="square" stroke-linejoin="round">
+    <path d="M8 0v136h66"/>
+    <path d="M76 0h35c46 0 70 24 70 68s-24 68-70 68H76V0Z"/>
+  </g>
+  <text x="1135" y="388" class="wordmark-dark">LUNDGREN</text>
+  <text x="1138" y="423" class="digital-dark">DIGITAL</text>
+  <g transform="translate(870 539) scale(.22)" fill="none" stroke="#171916" stroke-width="18" stroke-linecap="square" stroke-linejoin="round">
+    <path d="M8 0v136h66"/>
+    <path d="M76 0h35c46 0 70 24 70 68s-24 68-70 68H76V0Z"/>
+  </g>
+  <text x="928" y="568" class="mini">EGEN FORM UTAN INRAMNING</text>
+  <rect x="1392" y="542" width="40" height="40" rx="8" fill="#171916"/>
+  <g transform="translate(1400 550) scale(.16)" fill="none" stroke="#c7f25a" stroke-width="20" stroke-linecap="square" stroke-linejoin="round">
+    <path d="M8 0v136h66"/>
+    <path d="M76 0h35c46 0 70 24 70 68s-24 68-70 68H76V0Z"/>
+  </g>
+
+  <!-- 03 Block -->
+  <g filter="url(#shadow)">
+    <rect x="70" y="680" width="710" height="420" rx="26" fill="#fbfaf6"/>
+  </g>
+  <text x="100" y="725" class="number">03</text>
+  <text x="140" y="725" class="name">Block</text>
+  <text x="235" y="725" class="trait">Tydlig · kompakt · robust</text>
+  <rect x="100" y="753" width="650" height="235" rx="18" fill="#f2f0e9"/>
+  <rect x="142" y="790" width="160" height="160" rx="28" fill="#c7f25a"/>
+  <path d="M177 825h22v84h39v21h-61V825Z" fill="#171916"/>
+  <path d="M219 825h27c38 0 58 18 58 52s-20 53-58 53h-27v-20h25c24 0 36-11 36-33s-12-32-36-32h-25v-20Z" fill="#171916"/>
+  <text x="355" y="864" class="wordmark-light">LUNDGREN</text>
+  <text x="358" y="899" class="digital-light">DIGITAL</text>
+  <rect x="100" y="1026" width="40" height="40" rx="9" fill="#c7f25a"/>
+  <path d="M108 1035h6v23h10v5h-16v-28Zm11 0h8c10 0 15 5 15 14s-5 14-15 14h-8v-5h7c6 0 9-3 9-9s-3-9-9-9h-7v-5Z" fill="#171916"/>
+  <text x="158" y="1054" class="mini">STARK I APP- OCH PROFILFORMAT</text>
+  <rect x="648" y="1026" width="40" height="40" rx="9" fill="#171916"/>
+  <rect x="654" y="1032" width="28" height="28" rx="6" fill="#c7f25a"/>
+
+  <!-- 04 Forward -->
+  <g filter="url(#shadow)">
+    <rect x="820" y="680" width="710" height="420" rx="26" fill="#fbfaf6"/>
+  </g>
+  <text x="850" y="725" class="number">04</text>
+  <text x="890" y="725" class="name">Framåt</text>
+  <text x="1000" y="725" class="trait">Modern · energisk · digital</text>
+  <rect x="850" y="753" width="650" height="235" rx="18" fill="#171916"/>
+  <g transform="translate(895 790)">
+    <path d="M34 0h128l-34 160H0L34 0Z" fill="#c7f25a"/>
+    <path d="M44 40h19v70h35l-5 21H39l5-91Z" fill="#171916"/>
+    <path d="M86 40h27c34 0 50 17 43 46-7 30-29 45-63 45H67l5-21h22c20 0 33-8 37-24 4-17-6-25-26-25H81l5-21Z" fill="#171916"/>
+  </g>
+  <text x="1110" y="864" class="wordmark-dark">LUNDGREN</text>
+  <text x="1113" y="899" class="digital-dark">DIGITAL</text>
+  <g transform="translate(850 1026) scale(.25)">
+    <path d="M34 0h128l-34 160H0L34 0Z" fill="#c7f25a"/>
+    <path d="M44 40h19v70h35l-5 21H39l5-91Z" fill="#171916"/>
+    <path d="M86 40h27c34 0 50 17 43 46-7 30-29 45-63 45H67l5-21h22c20 0 33-8 37-24 4-17-6-25-26-25H81l5-21Z" fill="#171916"/>
+  </g>
+  <text x="908" y="1054" class="mini">MER ATTITYD, FORTFARANDE LÄSBAR</text>
+  <circle cx="1408" cy="1046" r="20" fill="#171916"/>
+  <path d="M1401 1035h17l-5 23h-17l5-23Z" fill="#c7f25a"/>
+
+  <text x="70" y="1160" class="board-subtitle">Rekommenderad utgångspunkt: 01 Signal för trygghet eller 02 Linje för ett mer eget premiumuttryck.</text>
+</svg>

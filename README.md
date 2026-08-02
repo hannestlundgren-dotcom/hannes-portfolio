@@ -1,6 +1,8 @@
 # Lundgren Digital — portfolio
 
-Tvåspråkigt, lanseringsklart portfolioskal för Lundgren Digital. Svenska ligger på `/` och engelska på `/en/`.
+Tvåspråkigt, lanseringsklart portfolioskal för Lundgren Digital. Svenska ligger på `/` och engelska på `/en/`. Positioneringen omfattar webbdesign, processförbättring och praktisk AI-automation.
+
+Den valda Loop-loggan, formatvarianter och användningsregler finns i `brand/final/`. Den förberedda mejlsignaturen förvaras utanför det publika webb-repot tills domänmejlen är aktiv.
 
 ## Lokal preview
 

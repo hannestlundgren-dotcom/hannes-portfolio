@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Fyra mer kreativa logokoncept för Lundgren Digital</title>
+  <desc id="desc">Loop, Portal, Fold och Pixel visas som symbol, ordmärke och liten favicon.</desc>
+  <defs>
+    <style>
+      .board-title { font: 700 58px Arial, sans-serif; letter-spacing: -2px; fill: #171916; }
+      .board-subtitle { font: 400 21px Arial, sans-serif; fill: #676b63; }
+      .number { font: 700 14px Arial, sans-serif; letter-spacing: 2px; fill: #171916; }
+      .name { font: 700 27px Arial, sans-serif; letter-spacing: -.5px; fill: #171916; }
+      .trait { font: 400 16px Arial, sans-serif; fill: #777b73; }
+      .wordmark { font: 700 36px Arial, sans-serif; letter-spacing: 4px; fill: #f2f0e9; }
+      .wordmark-ink { font: 700 36px Arial, sans-serif; letter-spacing: 4px; fill: #171916; }
+      .digital { font: 400 17px Arial, sans-serif; letter-spacing: 10px; fill: #c7f25a; }
+      .digital-ink { font: 400 17px Arial, sans-serif; letter-spacing: 10px; fill: #536051; }
+      .mini { font: 600 13px Arial, sans-serif; letter-spacing: 1px; fill: #6f736b; }
+    </style>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#171916" flood-opacity=".08"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="1200" fill="#e9e8e1"/>
+  <text x="70" y="90" class="board-title">LD — fyra friare idéer</text>
+  <text x="72" y="130" class="board-subtitle">Mer egen karaktär, men fortfarande byggda för att fungera i 32 pixlar.</text>
+  <rect x="72" y="157" width="1456" height="2" fill="#c8c8bf"/>
+
+  <!-- 05 Loop -->
+  <g filter="url(#shadow)"><rect x="70" y="205" width="710" height="420" rx="26" fill="#fbfaf6"/></g>
+  <text x="100" y="250" class="number">05</text>
+  <text x="140" y="250" class="name">Loop</text>
+  <text x="222" y="250" class="trait">Flytande · smart · mänsklig teknik</text>
+  <rect x="100" y="278" width="650" height="235" rx="18" fill="#171916"/>
+  <g transform="translate(138 318)" fill="none" stroke="#c7f25a" stroke-width="17" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26 8v126h64"/>
+    <path d="M94 8h31c49 0 75 23 75 63s-26 63-75 63H94V49"/>
+  </g>
+  <circle cx="232" cy="367" r="9" fill="#f2f0e9"/>
+  <text x="532" y="381" class="wordmark" text-anchor="middle">LUNDGREN</text>
+  <text x="535" y="417" class="digital" text-anchor="middle">DIGITAL</text>
+  <g transform="translate(104 538) scale(.23)" fill="none" stroke="#171916" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26 8v126h64"/><path d="M94 8h31c49 0 75 23 75 63s-26 63-75 63H94V49"/>
+  </g>
+  <circle cx="128" cy="549" r="2.5" fill="#536051"/>
+  <text x="166" y="568" class="mini">EN ÖPPEN LOOP SOM SIGNALERAR DIALOG</text>
+  <circle cx="648" cy="562" r="20" fill="#171916"/>
+  <path d="M638 551v21h11m1-21h5c9 0 13 4 13 10s-4 11-13 11h-5v-14" fill="none" stroke="#c7f25a" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- 06 Portal -->
+  <g filter="url(#shadow)"><rect x="820" y="205" width="710" height="420" rx="26" fill="#fbfaf6"/></g>
+  <text x="850" y="250" class="number">06</text>
+  <text x="890" y="250" class="name">Portal</text>
+  <text x="985" y="250" class="trait">Inbjudande · arkitektonisk · distinkt</text>
+  <rect x="850" y="278" width="650" height="235" rx="18" fill="#f2f0e9"/>
+  <g transform="translate(892 310)">
+    <path d="M22 160V63C22 24 46 4 88 4h35c54 0 87 30 87 78s-33 78-87 78H22Z" fill="#171916"/>
+    <path d="M50 132V67c0-24 13-35 39-35h30c39 0 61 18 61 50s-22 50-61 50H50Z" fill="#c7f25a"/>
+    <path d="M50 32h26v100h49v28H50V32Z" fill="#171916"/>
+  </g>
+  <text x="1240" y="381" class="wordmark-ink" text-anchor="middle">LUNDGREN</text>
+  <text x="1243" y="417" class="digital-ink" text-anchor="middle">DIGITAL</text>
+  <g transform="translate(850 539) scale(.25)">
+    <path d="M22 160V63C22 24 46 4 88 4h35c54 0 87 30 87 78s-33 78-87 78H22Z" fill="#171916"/>
+    <path d="M50 132V67c0-24 13-35 39-35h30c39 0 61 18 61 50s-22 50-61 50H50Z" fill="#c7f25a"/>
+    <path d="M50 32h26v100h49v28H50V32Z" fill="#171916"/>
+  </g>
+  <text x="920" y="568" class="mini">ETT DIGITALT FÖNSTER ELLER EN DÖRR</text>
+  <rect x="1392" y="542" width="40" height="40" rx="12" fill="#171916"/>
+  <path d="M1400 574v-20c0-8 5-12 13-12h2c9 0 15 6 15 15s-6 17-15 17h-15Zm6-6h9c6 0 9-4 9-10s-3-10-9-10h-4v14h7v6h-12Z" fill="#c7f25a"/>
+
+  <!-- 07 Fold -->
+  <g filter="url(#shadow)"><rect x="70" y="680" width="710" height="420" rx="26" fill="#fbfaf6"/></g>
+  <text x="100" y="725" class="number">07</text>
+  <text x="140" y="725" class="name">Fold</text>
+  <text x="215" y="725" class="trait">Kreativ · dimensionell · hantverksmässig</text>
+  <rect x="100" y="753" width="650" height="235" rx="18" fill="#171916"/>
+  <g transform="translate(136 790)">
+    <path d="M20 0h34v119h76v34H20V0Z" fill="#c7f25a"/>
+    <path d="M84 0h42c48 0 76 27 76 76s-28 77-76 77H84v-34h39c29 0 44-15 44-43s-15-42-44-42H84V0Z" fill="#f2f0e9"/>
+    <path d="M54 119h30v34H54l-22-17 22-17Z" fill="#8fae3c"/>
+    <path d="M84 0h30L99 17 84 34V0Z" fill="#a6ca48"/>
+  </g>
+  <text x="474" y="856" class="wordmark" text-anchor="middle">LUNDGREN</text>
+  <text x="477" y="892" class="digital" text-anchor="middle">DIGITAL</text>
+  <g transform="translate(104 1029) scale(.22)">
+    <path d="M20 0h34v119h76v34H20V0Z" fill="#c7f25a"/>
+    <path d="M84 0h42c48 0 76 27 76 76s-28 77-76 77H84v-34h39c29 0 44-15 44-43s-15-42-44-42H84V0Z" fill="#171916"/>
+    <path d="M54 119h30v34H54l-22-17 22-17Z" fill="#8fae3c"/>
+  </g>
+  <text x="164" y="1054" class="mini">TVÅ LAGER: DESIGN OCH UTVECKLING</text>
+  <circle cx="668" cy="1046" r="20" fill="#171916"/>
+  <path d="M657 1035h6v20h13v6h-19v-26Zm10 0h6c10 0 15 4 15 13s-5 13-15 13h-6v-6h6c6 0 9-2 9-7s-3-7-9-7h-6v-6Z" fill="#c7f25a"/>
+
+  <!-- 08 Pixel -->
+  <g filter="url(#shadow)"><rect x="820" y="680" width="710" height="420" rx="26" fill="#fbfaf6"/></g>
+  <text x="850" y="725" class="number">08</text>
+  <text x="890" y="725" class="name">Pixel</text>
+  <text x="977" y="725" class="trait">Lekfull · modulär · tydligt digital</text>
+  <rect x="850" y="753" width="650" height="235" rx="18" fill="#f2f0e9"/>
+  <g transform="translate(895 790)" fill="#171916">
+    <rect x="0" y="0" width="30" height="30" rx="4"/><rect x="0" y="38" width="30" height="30" rx="4"/><rect x="0" y="76" width="30" height="30" rx="4"/><rect x="0" y="114" width="30" height="30" rx="4"/>
+    <rect x="38" y="114" width="30" height="30" rx="4"/><rect x="76" y="114" width="30" height="30" rx="4"/>
+    <rect x="76" y="0" width="30" height="30" rx="4"/><rect x="114" y="0" width="30" height="30" rx="4"/><rect x="152" y="38" width="30" height="30" rx="4"/><rect x="152" y="76" width="30" height="30" rx="4"/><rect x="114" y="114" width="30" height="30" rx="4"/><rect x="76" y="76" width="30" height="30" rx="4"/>
+    <rect x="114" y="38" width="30" height="30" rx="4" fill="#c7f25a"/>
+  </g>
+  <text x="1252" y="856" class="wordmark-ink" text-anchor="middle">LUNDGREN</text>
+  <text x="1255" y="892" class="digital-ink" text-anchor="middle">DIGITAL</text>
+  <g transform="translate(852 1028) scale(.23)" fill="#171916">
+    <rect x="0" y="0" width="30" height="30"/><rect x="0" y="38" width="30" height="30"/><rect x="0" y="76" width="30" height="30"/><rect x="0" y="114" width="30" height="30"/>
+    <rect x="38" y="114" width="30" height="30"/><rect x="76" y="114" width="30" height="30"/><rect x="76" y="0" width="30" height="30"/><rect x="114" y="0" width="30" height="30"/><rect x="152" y="38" width="30" height="30"/><rect x="152" y="76" width="30" height="30"/><rect x="114" y="114" width="30" height="30"/><rect x="76" y="76" width="30" height="30"/>
+    <rect x="114" y="38" width="30" height="30" fill="#c7f25a"/>
+  </g>
+  <text x="910" y="1054" class="mini">BYGGSYSTEM SOM KAN ANIMERAS PÅ WEBBEN</text>
+  <rect x="1392" y="1026" width="40" height="40" rx="8" fill="#171916"/>
+  <rect x="1399" y="1033" width="7" height="7" fill="#c7f25a"/><rect x="1399" y="1042" width="7" height="7" fill="#c7f25a"/><rect x="1399" y="1051" width="7" height="7" fill="#c7f25a"/><rect x="1408" y="1051" width="7" height="7" fill="#c7f25a"/><rect x="1417" y="1033" width="7" height="7" fill="#c7f25a"/><rect x="1426" y="1042" width="7" height="7" fill="#c7f25a"/><rect x="1426" y="1051" width="7" height="7" fill="#c7f25a"/>
+
+  <text x="70" y="1160" class="board-subtitle">Min bedömning: 05 Loop är mest balanserad; 06 Portal är mest minnesvärd.</text>
+</svg>

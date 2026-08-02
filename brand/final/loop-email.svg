@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" role="img" aria-labelledby="title">
+  <title id="title">Lundgren Digital mejllogotyp</title>
+  <g transform="translate(18 30) scale(.72)" fill="none" stroke="#171916" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26 12v126h64"/>
+    <path d="M94 12h31c49 0 75 23 75 63s-26 63-75 63H94V53"/>
+  </g>
+  <circle cx="86" cy="68" r="6.5" fill="#8fae3c"/>
+  <text x="210" y="83" fill="#171916" font-family="Manrope, Arial, sans-serif" font-size="43" font-weight="700" letter-spacing="5">LUNDGREN</text>
+  <text x="213" y="125" fill="#536051" font-family="DM Sans, Arial, sans-serif" font-size="20" font-weight="500" letter-spacing="14">DIGITAL</text>
+</svg>
