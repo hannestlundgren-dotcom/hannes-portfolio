@@ -17,7 +17,7 @@
     <loc>https://lundgrendigital.se/blogg/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://lundgrendigital.se/blogg/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://lundgrendigital.se/en/blogg/" />
-    <lastmod>2026-08-11</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://lundgrendigital.se/blogg/ai-agent-for-orderhantering/</loc>
@@ -26,16 +26,28 @@
     <lastmod>2026-08-11</lastmod>
   </url>
   <url>
+    <loc>https://lundgrendigital.se/blogg/ai-agent-for-kundservice/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://lundgrendigital.se/blogg/ai-agent-for-kundservice/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://lundgrendigital.se/en/blogg/ai-agent-for-kundservice/" />
+    <lastmod>2026-08-12</lastmod>
+  </url>
+  <url>
     <loc>https://lundgrendigital.se/en/blogg/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://lundgrendigital.se/blogg/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://lundgrendigital.se/en/blogg/" />
-    <lastmod>2026-08-11</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://lundgrendigital.se/en/blogg/ai-agent-for-orderhantering/</loc>
     <xhtml:link rel="alternate" hreflang="sv" href="https://lundgrendigital.se/blogg/ai-agent-for-orderhantering/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://lundgrendigital.se/en/blogg/ai-agent-for-orderhantering/" />
     <lastmod>2026-08-11</lastmod>
+  </url>
+  <url>
+    <loc>https://lundgrendigital.se/en/blogg/ai-agent-for-kundservice/</loc>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://lundgrendigital.se/blogg/ai-agent-for-kundservice/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://lundgrendigital.se/en/blogg/ai-agent-for-kundservice/" />
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url><loc>https://lundgrendigital.se/webb/</loc><lastmod>2026-08-11</lastmod></url>
   <url><loc>https://lundgrendigital.se/en/webb/</loc><lastmod>2026-08-11</lastmod></url>
