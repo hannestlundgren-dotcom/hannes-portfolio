@@ -85,6 +85,7 @@ nav a:hover::after { right: 0; }
 .service-grid span { color: var(--accent); font-size: .68rem; }
 .service-grid h3 { margin: auto 0 20px; font-size: 1.7rem; letter-spacing: -.04em; }
 .service-grid p { margin: 0; color: #aeb2a8; font-size: .8rem; }
+.service-link { display: inline-block; margin-top: 12px; color: var(--accent); font-weight: 600; }
 
 .workflow-examples { background: var(--white); }
 .workflow-grid { display: grid; grid-template-columns: repeat(3, 1fr); border-top: 1px solid var(--line-light); }
