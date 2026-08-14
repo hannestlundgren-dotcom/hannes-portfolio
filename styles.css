@@ -79,7 +79,7 @@ nav a:hover::after { right: 0; }
 
 .services { color: var(--white); background: var(--ink); }
 .section-heading.light > p { color: #aeb2a8; }
-.service-grid { display: grid; grid-template-columns: repeat(4, 1fr); border-top: 1px solid var(--line-dark); }
+.service-grid { display: grid; grid-template-columns: repeat(5, 1fr); border-top: 1px solid var(--line-dark); }
 .service-grid article { min-height: 330px; padding: 30px 26px; display: flex; flex-direction: column; border-right: 1px solid var(--line-dark); }
 .service-grid article:last-child { border-right: 0; }
 .service-grid span { color: var(--accent); font-size: .68rem; }
@@ -151,8 +151,8 @@ footer > small { grid-column: 1 / -1; margin-top: 38px; padding-top: 22px; borde
   .project .project-image { order: 1; }
   .project-image { height: 70vw; }
   .service-grid { grid-template-columns: 1fr 1fr; }
-  .service-grid article:nth-child(2) { border-right: 0; }
-  .service-grid article:nth-child(-n+2) { border-bottom: 1px solid var(--line-dark); }
+  .service-grid article:nth-child(2n) { border-right: 0; }
+  .service-grid article:not(:last-child) { border-bottom: 1px solid var(--line-dark); }
   .workflow-grid { grid-template-columns: 1fr; }
   .workflow-card { min-height: 260px; border-right: 0; border-bottom: 1px solid var(--line-light); }
   .workflow-card:last-child { border-bottom: 0; }
